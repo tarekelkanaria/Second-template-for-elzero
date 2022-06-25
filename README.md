@@ -17,20 +17,20 @@ Tarek M. Abdelraouf Shaer
 # Used Languages and libraries
 
 - [x] Create the page from scratch
-      - Using HTML5 semantic elements
-      - Using CSS3 new properties with attention to compatibility and browser-friendly behavior
+      - [x] Using HTML5 semantic elements
+      - [x] Using CSS3 new properties with attention to compatibility and browser-friendly behavior
 
 - [x] Used libraries 
-      1. Font awesome free v6.11 
-      2. Normalize.css v8.0.1
+      - [x] Font awesome free v6.11 
+      - [x] Normalize.css v8.0.1
 
 # Responsiveness and navigation bar
 
 - [x] The page responsive across all devices
 - [x] The navigation bar leads to a section with smooth scrolling 
-      - The navigation bar displays on big screens y hover 
-      - It displays as a burger icon on small screens like the mobile
-      - Shows an active section to make the user navigation easier
+      - [x] The navigation bar displays on big screens y hover 
+      - [x] It displays as a burger icon on small screens like the mobile
+      - [x] Shows an active section to make the user navigation easier
 
 # Professionalism
 
